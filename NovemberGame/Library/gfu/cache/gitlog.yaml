@@ -13,9 +13,69 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-11-07T22:36:07.953+02:00
+  lastUpdatedAtString: 2020-11-07T22:47:12.395+02:00
   initializedAtString: 2020-11-07T22:33:51.535+02:00
   log:
+  - commitID: ad9a4545960520a4f95fe7b72da2f37d1a29d55b
+    mergeA: 
+    mergeB: 
+    authorName: eshgames
+    authorEmail: eshgames20@gmail.com
+    commitEmail: eshgames20@gmail.com
+    commitName: eshgames
+    summary: test
+    description: 
+    timeString: 2020-11-07T22:43:49.000+02:00
+    commitTimeString: 2020-11-07T22:43:49.000+02:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/SourceAssetDB
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/gfu/cache/branches.yaml
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: NovemberGame/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/itayadler/Documents/Projects/NovemberGame/NovemberGame/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: ff243ca2cc387ace47c248dde5a8bd39a11ea37f
     mergeA: 
     mergeB: 
